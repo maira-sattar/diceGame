@@ -83,7 +83,7 @@ const handleDiceImage = (num) =>{
     handleTurn()
   }
 
-  dice.innerHTML = `<img src='../res/dice${num}.png'>`;
+  dice.innerHTML = `<img src='res/dice${num}.png'>`;
 }
 
 
